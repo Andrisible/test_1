@@ -3,3 +3,5 @@ for i in range(10):
     print('1')
     #ljgegergreg4
 print('pidor')
+
+print('aweee')
